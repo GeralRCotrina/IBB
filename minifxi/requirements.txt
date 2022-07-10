@@ -1,0 +1,10 @@
+cymysql==0.9.14
+Django==2.1
+django-cymysql==2.2.0
+gunicorn==20.1.0
+MarkupSafe==1.1.1
+numpy==1.18.4
+Pillow==7.1.2
+pytz==2019.1
+sqlparse==0.3.1
+
